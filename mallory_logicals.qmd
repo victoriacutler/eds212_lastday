@@ -1,0 +1,27 @@
+---
+title: "Mallory Logicals"
+format: html
+editor: visual
+---
+
+## Logical Expressions 
+
+Hi bestie! don't touch my stuff
+
+```{r}
+5 == 1
+"cat" == "dog"
+x <- 7
+
+if (x == 6){
+  x
+}
+
+
+x == 5 | 8
+
+
+teddy <- 5
+banjo <- 7
+tallie <- 4
+```
