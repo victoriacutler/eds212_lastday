@@ -1,0 +1,26 @@
+---
+title: "victoria's doc"
+format: html
+editor: visual
+---
+
+## A few logical expressions
+
+Hi there:
+
+```{r}
+5 == 1
+"cat" == "dog"
+
+meds <- c(1,2,3,4,5)
+meds == 3
+meds == 1 | meds > 3
+
+teddy <- 5
+banjo <- 7
+tallie <- 4
+
+teddy
+
+teddy <= banjo
+```
