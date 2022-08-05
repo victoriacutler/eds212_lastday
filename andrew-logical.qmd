@@ -1,0 +1,36 @@
+---
+title: "andrew-logical"
+format: html
+editor: visual
+---
+
+A few logical expressions
+
+hello
+
+```{r}
+5 == 1
+
+"cat" == "bat"
+
+meds <- c(1 ,2 ,3, 4, 5)
+meds == 3
+
+meds == 1 | meds > 3
+
+teddy <- 5
+
+banjo <- 7
+
+tallie <- 4
+
+teddy
+banjo
+tallie
+
+
+teddy <= banjo
+
+
+```
+
